@@ -77,7 +77,7 @@ export class MessageService {
         <body>
           <div class="container">
             <img
-              src="https://cdn-icons-png.flaticon.com/512/2729/2729033.png"
+              src="https://cdn-icons-png.flaticon.com/128/8656/8656531.png"
               alt="Economia Circular"
               class="logo"
             />
